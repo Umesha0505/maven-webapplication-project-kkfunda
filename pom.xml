@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://44.204.122.196:8081/repository/umesha-release/</url>
+	      <url>http://32.198.116.164:8081/repository/umesh-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://44.204.122.196:8081/repository/umesh-snapshot/</url>
+	      <url>http://32.198.116.164:8081/repository/umesh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
